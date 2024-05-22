@@ -1,10 +1,5 @@
 const templates = [
-  {
-    name: 'Bundle Deals',
-    repository: 'bundle-deals/bundle-deals.github.io',
-    suggested: 'bundle-deals-template',
-    icon: '<svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M2 6C2 3.79086 3.79086 2 6 2H12.0098C13.0707 2 14.0881 2.42143 14.8382 3.17157L20.8284 9.16176C21.5786 9.9119 22 10.9293 22 11.9902V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6Z"/></svg>'
-  },
+  
   {
     name: 'Blog',
     repository: 'pages-cms/blog-template',
